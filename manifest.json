@@ -1,0 +1,25 @@
+{
+  "manifest_version": 2,
+  "version": "1.1",
+  "name": "DarkNeon",
+  "author": "Victor Ignacio",
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+      "toolbar": "rgb(14, 14, 14)",
+      "toolbar_text": "rgb(238, 238, 238)",
+      "frame": "rgb(13, 13, 13)",
+      "icons_attention": "rgb(38, 157, 113)",
+      "tab_background_text": "rgb(204, 204, 204)",
+      "toolbar_field": "rgb(20, 22, 21)",
+      "toolbar_field_text": "rgb(187, 187, 187)",
+      "tab_line": "rgb(38, 157, 113)",
+      "popup": "rgb(0, 0, 0)",
+      "popup_text": "rgb(187, 187, 187)",
+      "tab_loading": "rgb(38, 157, 113)",
+      "ntp_background": "#0D0D0D",
+      "ntp_text": "white"
+    }
+  }
+}
